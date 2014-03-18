@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.0.1",
   "description": "",
-  "repository": "https://github.com/exAspArk/cozy-sublimetext2-theme",
+  "repository": "https://github.com/exAspArk/cozy-atom-theme",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

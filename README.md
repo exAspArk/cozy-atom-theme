@@ -1,3 +1,3 @@
-# Cozy theme
+# Cozy theme for Atom
 
-![A screenshot of your theme](https://raw.github.com/exAspArk/cozy-sublimetext2-theme/master/screenshot.png)
+![A screenshot of your theme](https://raw.github.com/exAspArk/cozy-atom-theme/master/screenshot.png)
